@@ -1,3 +1,5 @@
+> This repository is obsolete. A modern, maintained and improved version of the broker can be found at https://github.com/absmach/fluxmq. 
+
 # FluxMQ
 FluxMQ is simple, fast and lean MQTT broker made for the purposes of [Mainflux IoT Platform](https://github.com/mainflux/mainflux).
 
