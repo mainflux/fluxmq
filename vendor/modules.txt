@@ -1,15 +1,19 @@
-# github.com/eclipse/paho.mqtt.golang v1.2.0
-## explicit
+# github.com/eclipse/paho.mqtt.golang v1.5.1
+## explicit; go 1.24.0
 github.com/eclipse/paho.mqtt.golang/packets
 # go.uber.org/atomic v1.6.0
+## explicit; go 1.13
 go.uber.org/atomic
 # go.uber.org/multierr v1.5.0
+## explicit; go 1.12
 go.uber.org/multierr
 # go.uber.org/zap v1.16.0
-## explicit
+## explicit; go 1.13
 go.uber.org/zap
 go.uber.org/zap/buffer
 go.uber.org/zap/internal/bufferpool
 go.uber.org/zap/internal/color
 go.uber.org/zap/internal/exit
 go.uber.org/zap/zapcore
+# golang.org/x/tools v0.36.0
+## explicit; go 1.23.0
